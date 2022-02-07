@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Imagen</string>
     <string name="play">Play</string>
+    <string name="msgGrabando">Grabando...</string>
+    <string name="error">Error de aplicacion</string>
+    <string name="parar">Grabacion Detenida</string>
+
 </resources>
