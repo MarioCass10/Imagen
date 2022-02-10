@@ -18,6 +18,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Imagen">
         <activity
+            android:name=".Video"
+            android:exported="false" />
+        <activity
             android:name=".Grabadora"
             android:exported="false" />
         <activity

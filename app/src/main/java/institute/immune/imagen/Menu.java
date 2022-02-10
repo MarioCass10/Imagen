@@ -34,4 +34,13 @@ public class Menu extends AppCompatActivity {
         startActivity(intent);
 
     }
+
+    public void onClickVideos(View view) {
+
+        Intent intent = new Intent(this,Video.class);
+        startActivity(intent);
+
+    }
+
+
 }

@@ -6,11 +6,12 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3575" />
         <entry key="app/src/main/res/layout/activity_camara.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_cancion.xml" value="0.2296195652173913" />
-        <entry key="app/src/main/res/layout/activity_grabadora.xml" value="0.21875" />
+        <entry key="app/src/main/res/layout/activity_grabadora.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2296195652173913" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.21875" />
         <entry key="app/src/main/res/layout/activity_menu.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/activity_musica.xml" value="0.2296195652173913" />
+        <entry key="app/src/main/res/layout/activity_video.xml" value="0.18177083333333333" />
       </map>
     </option>
   </component>
